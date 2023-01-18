@@ -7,14 +7,14 @@
 ## ✨ Demo
 
  <p align="center">
-  <img width="700" align="center" src="./public/gif/readme.gif" alt="demo"/>   
+  <img width="700" align="center" src="./gif/readme.gif" alt="demo"/>   
 </p>
 
 <!-- ![Alt text](https://giphy.com/peekasso)  -->
 
 <hr>
 
-[📍You can see the live site from here!](https://todoaappwithtypescript.vercel.app/)
+<!-- [📍You can see the live site from here!]() -->
 
 <!-- ------------------------------------------------------ -->
 ````
